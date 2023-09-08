@@ -1,0 +1,7 @@
+C:\!Учёба\ООП\ЛР_1\6\6\bin\Debug\6.exe.config
+C:\!Учёба\ООП\ЛР_1\6\6\bin\Debug\6.exe
+C:\!Учёба\ООП\ЛР_1\6\6\bin\Debug\6.pdb
+C:\!Учёба\ООП\ЛР_1\6\6\obj\Debug\6.csproj.AssemblyReference.cache
+C:\!Учёба\ООП\ЛР_1\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+C:\!Учёба\ООП\ЛР_1\6\6\obj\Debug\6.exe
+C:\!Учёба\ООП\ЛР_1\6\6\obj\Debug\6.pdb
